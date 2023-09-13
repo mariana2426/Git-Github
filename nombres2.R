@@ -2,7 +2,7 @@ Añade tu nombre en el número que corresponde:
 
 1.
 2.
-3.
+3. Mariana
 4. Vianey Pastran
 5.
 6.
